@@ -1,0 +1,9 @@
+{
+  "name": "crypto-scrapper",
+  "version": "0.0.0",
+  "description": "CryptoScrapper",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
